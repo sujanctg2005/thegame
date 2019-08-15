@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve AINGUS
+about: Create a report to help us improve ANGUIS
 
 ---
 
@@ -10,16 +10,16 @@ about: Create a report to help us improve AINGUS
 ### Preflight Checklist
 <!-- Please ensure you've completed the following steps by replacing [ ] with [x]-->
 
-* [ ] I have read the [Contributing Guidelines](https://github.com/thegame/new/master/CONTRIBUTING.md) for this project.
+* [ ] I have read the [Contributing Guidelines](https://github.com/nsucheendran/thegame/new/master/CONTRIBUTING.md) for this project.
 * [ ] I have searched the issue tracker for an issue that matches the one I want to file, without success.
 
 ### Issue Details
 
-* **AINGUS Version:**
-  * <!-- (output of `node_modules/.bin/AINGUS --version`) e.g. 4.0.3 -->
+* **ANGUIS Version:**
+  * <!-- (output of `node_modules/.bin/ANGUIS --version`) e.g. 4.0.3 -->
 * **Operating System:**
   * <!-- (Platform and Version) e.g. macOS 10.13.6 / Windows 10 (1803) / Ubuntu 18.04 x64 -->
-* **Last Known Working AINGUS version:**
+* **Last Known Working ANGIUS version:**
   * <!-- (if applicable) e.g. 3.1.0 -->
 
 ### Expected Behavior
@@ -40,7 +40,7 @@ If you provide a URL, please list the commands required to clone/setup/run your 
 ```sh
 $ git clone $YOUR_URL -b $BRANCH
 $ npm install
-$ npm start || AINGUS .
+$ npm start || ANGUIS .
 ```
 -->
 
