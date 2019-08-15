@@ -1,9 +1,9 @@
 
-> Game name here
+> ANGUIS
 
 > Azure Pipelines badge here
 
-> Team Members 
+> Nimcy , Sujan , Padmini 
 
 
 | Photo              | Name             | Role          |
