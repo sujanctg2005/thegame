@@ -17,7 +17,7 @@ little bit helps, and credit will always be given.
 
 ## Report Bugs
 
-Report bugs through [Issue-Template](#https://github.com/nsucheendran/thegame/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
+Report bugs through [Issue-Template](https://github.com/nsucheendran/thegame/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
 
 Please report relevant information and preferably code that exhibits
 the problem.
@@ -25,7 +25,7 @@ the problem.
 
 ## Implement Features
 
-Look through the [Feature-Implementation](#https://github.com/nsucheendran/thegame/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) for features.
+Look through the [Feature-Implementation](https://github.com/nsucheendran/thegame/blob/master/.github/ISSUE_TEMPLATE/Feature_Request.md) for features.
 Any unassigned "Improvement" issue is open to whoever wants to implement it.
 
 We've created the operators, hooks, macros and executors we needed, but we
