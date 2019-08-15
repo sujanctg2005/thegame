@@ -19,7 +19,7 @@ describe('CoordinateService', () => {
         CoordinateService.movePlayer(player);
         let expectedSegments = [new Coordinate(6, 1),
                                 new Coordinate(5, 1),
-                                new Coordinate(4, 1),
+                                new Coordinate(6, 1),
                                 new Coordinate(3, 1),
                                 new Coordinate(2, 1)];
         assert.deepEqual(player.getSegments(), expectedSegments, 'Player did not move right as expected');
